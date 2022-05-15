@@ -46,6 +46,6 @@ These are the links to some of the repositories that helped me during my prepara
    - *Wiki of solutions*
 
 ### TIP
-Same questions are done in different style in every soltions repositories, try to run all of them and find which one is easy for you to understand and make it your own.
+Same questions are done in different style in every solution repositories, try to run all of them and find which one is easy for you to understand and make it your own.
 
 
