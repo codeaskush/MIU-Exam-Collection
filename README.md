@@ -2,6 +2,9 @@
 
 A list of resources for Maharishi International University Exam [Compro]
 
+## Questions
+Questions are uploaded to the repository as pdf file, please download them to your machine.
+
 ## Description
 The examination will be written exam. You will be given 3 questions to solve within 2 hours.
 The examination result will be delivered via email.
