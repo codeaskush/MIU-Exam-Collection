@@ -45,6 +45,8 @@ These are the links to some of the repositories that helped me during my prepara
 - By @shajibsh [https://github.com/shajibsh/java-programming-challenges/wiki]
    - *Wiki of solutions*
 
+- By @yonazaid [https://github.com/yonazaid/Maharishi-]
+
 ### TIP
 Same questions are done in different style in every solution repositories, try to run all of them and find which one is easy for you to understand and make it your own.
 
